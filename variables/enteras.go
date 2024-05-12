@@ -9,5 +9,5 @@ func MostrarEnteros() {
 
 	fmt.Println("Int comun =", intcomun)
 	fmt.Println("Int 32 =", intde32)
-	fmt.Println("Int 64 =", intde64)
+	fmt.Println("02Int 64 =", intde64)
 }

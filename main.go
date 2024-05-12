@@ -9,4 +9,5 @@ func main() {
 	variables.MostrarEnteros()
 
 	funciones.RestoVariables()
+
 }
